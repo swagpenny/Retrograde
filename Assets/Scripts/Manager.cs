@@ -9,9 +9,9 @@ public class Manager : MonoBehaviour
 
     //public Text playerHealth;
     //public Text enemyHealth;
-    public Text enemyAction;
-    public Text playerAction;
-    public Combat combat;
+    //public Text enemyAction;
+    //public Text playerAction;
+    //public Combat combat;
     //public Player player;
     //public Enemy enemy;
 
